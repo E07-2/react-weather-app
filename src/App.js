@@ -1,5 +1,5 @@
-import Homepage from "./components/Homepage/Homepage";
-import WeatherDetails from "./components/WeatherDetails/WeatherDetails";
+import Homepage from "./routes/Homepage/Homepage";
+import WeatherDetails from "./routes/WeatherDetails/WeatherDetails";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {

@@ -1,4 +1,4 @@
-import Temperature from "../shared/Temperature/Temperature";
+import Temperature from "../../components/shared/Temperature/Temperature";
 
 import styles from "./WeatherDetails.module.css";
 
