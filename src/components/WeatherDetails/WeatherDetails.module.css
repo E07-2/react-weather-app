@@ -1,0 +1,8 @@
+.container {
+    border: 2px solid black;
+    list-style-type: none;
+}
+
+.day {
+    font-weight: bold;
+}
