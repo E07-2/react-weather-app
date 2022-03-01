@@ -1,0 +1,9 @@
+.darkTheme {
+  background-color: #282c34;
+  color: aliceblue;
+}
+
+.lightTheme {
+  background-color: aliceblue;
+  color: #282c34;
+}

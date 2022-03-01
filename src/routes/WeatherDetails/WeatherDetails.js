@@ -11,7 +11,7 @@ export default function WeatherDetails() {
       </li>
       <li>
         <p className={styles.day}>Wednesday</p>
-        <Temperature value={12} />
+        <Temperature value={3} />
       </li>
       <li>
         <p className={styles.day}>Thursday</p>
@@ -19,7 +19,7 @@ export default function WeatherDetails() {
       </li>
       <li>
         <p className={styles.day}>Friday</p>
-        <Temperature value={25} />
+        <Temperature value={35} />
       </li>
     </ul>
   );
